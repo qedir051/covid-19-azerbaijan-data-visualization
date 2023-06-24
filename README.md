@@ -26,9 +26,13 @@ pip install matplotlib datetime csv
 
 The script `Line_Plot_of_Daily_Cases.py` imports the data from the `main.py` file and generates a line plot showing the daily new cases in Azerbaijan. The plot is created using the `matplotlib` library.
 
+[Line Plot of Daily Cases](images/dailycases.png)
+
 ### 2. Monthly Cases Bar Chart
 
 The script `monthly_cases.py` imports the data from `main.py` and generates a bar chart illustrating the monthly total cases in Azerbaijan. The chart provides insights into the monthly trends of COVID-19 cases.
+
+[Monthly Cases](images/monthcases.png)
 
 ## Instructions
 
